@@ -1,0 +1,6 @@
+train: /home/node/projects/opensource/yolov7/data/train
+val: /home/node/projects/opensource/yolov7/data/val
+
+nc: 1
+
+names: ["number_plate"]
